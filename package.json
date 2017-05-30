@@ -9,9 +9,6 @@
   "engines": {
     "node": ">=4.0.0"
   },
-  "scripts": {
-    "test": "lab -c -v -L -a code"
-  },
   "dependencies": {
     "diameter-sctp": "0.1.x"
   },
