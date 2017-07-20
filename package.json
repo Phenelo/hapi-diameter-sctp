@@ -10,7 +10,7 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "diameter-sctp": "0.1.x"
+    "diameter-sctp": "0.2.x"
   },
   "devDependencies": {
     "proxyquire": "1.7.x",
